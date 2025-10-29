@@ -5,4 +5,5 @@
 --------------The First Bash Script Tool I made -------------- 
 
 - The Idea is simple run multiple recon tools then aggregate results .....
-- this provide speed and clarityresults .
+- this provide speed and clarity results .
+- using 
